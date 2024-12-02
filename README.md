@@ -9,7 +9,9 @@ Welcome to my Python projects repository! This repository contains a series of m
 ### 1. **Countdown Program**  
 - **Description**: Prints a countdown from 10 to 1, followed by "Lift Off!"  
 - **Concepts Covered**: For loops and dynamic printing.  
-- **Notebook**: [Countdown Program](./Countdown.ipynb)
+- **Notebook**: [Countdown Program](./Session Assignments/01_basics
+/02_liftof_on_10.ipynb
+)
 
 ---
 
